@@ -56,6 +56,8 @@ upcoming:
     - Add articles rail to home screen - ole
     - Change articles rail design in artist overview page - ole
     - Specified a more specific error for logging in with Apple or Facebook - stas hanchar
+    - Converted "Lots by Artists You Follow" to rail and moved to top of auctions screen - damon
+    - Added "Auction lots for you" landing screen - damon
 
 releases:
   - version: 6.9.3
